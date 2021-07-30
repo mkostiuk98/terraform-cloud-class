@@ -17,3 +17,4 @@ resource "aws_key_pair" "developer2" {
       Deployed = "Terraform"
       Team = "DevOps"
   }
+}
